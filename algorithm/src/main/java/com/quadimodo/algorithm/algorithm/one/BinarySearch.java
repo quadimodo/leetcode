@@ -1,4 +1,4 @@
-package com.quadimodo.algorithm.algorithms.one;
+package com.quadimodo.algorithm.algorithm.one;
 
 
 import java.util.Arrays;
